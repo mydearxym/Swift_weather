@@ -57,6 +57,11 @@
                             </mask>
                         </variation>
                     </view>
+                    <connections>
+                        <outlet property="icon" destination="hYw-sA-Y1u" id="n03-JP-bD6"/>
+                        <outlet property="location" destination="msy-DN-NaZ" id="tYS-ex-OLO"/>
+                        <outlet property="temperature" destination="Muv-ki-yzA" id="5ZY-kY-hLm"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Y58-Le-GaM" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
